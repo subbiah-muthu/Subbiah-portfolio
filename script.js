@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 function sendToWhatsapp() {
-    let number = "+9042443108";
+    let number = "+91 9500483108";
 
     let name = document.getElementById('name').value;
     let email = document.getElementById('email').value;
